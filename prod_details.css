@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap");
 :root {
-  --red: #3739aa;
+  --red: #963D5A;
   --black: #0f1b3a;
   --light-color: #666;
   --box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
@@ -150,7 +150,7 @@ header .icons #menu-bars {
 }
 
 .variant-button:hover {
-    background: #67a6c9;
+    background: #f2c5ff;
     transform: scale(1.02);
 }
 
@@ -170,7 +170,7 @@ header .icons #menu-bars {
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #03045E;
+    background-color: #963D5A;
     color: #fff;
     text-align: center;
     text-decoration: none;
